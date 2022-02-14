@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.792,=D:\RADStudio\Projects\tracert\Winapi.Networking.Tracert.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,=vclactnband.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=vclx.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
